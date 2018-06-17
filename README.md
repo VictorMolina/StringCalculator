@@ -1,6 +1,6 @@
 # StringCalculator
 ## Description
-We want to implement a simple String calculator with the operations add, substract and multiply.
+Implement a simple String calculator with the operations add, substract and multiply.
 
 ## Exercise
 Given a String we want to apply mathematical operations **from left to right**.
